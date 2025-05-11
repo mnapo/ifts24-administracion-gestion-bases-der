@@ -60,3 +60,6 @@ categoría tiene id, nombre y descripción.
 Por razones de contabilidad, se debe registrar la información de cada venta con un id,
 fecha, cliente, descuento y monto final. Además se debe guardar el precio al momento
 de la venta, la cantidad vendida y el monto total por el producto.
+
+## Índice Guías
+https://github.com/mnapo/ifts24-guias-primer-cuatrimestre
